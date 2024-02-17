@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sanjibkarki
+-I'm currently a Student
+-I have knowledge of c,c++,python and javascript
