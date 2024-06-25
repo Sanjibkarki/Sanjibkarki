@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Sanjibkarki
--I'm currently a Student
--I have knowledge of c,c++,python and javascript
+👋 Hi, I'm Sanjib Karki.
+
+    Currently, I'm a student.
+    I use Django for my backend development.
+    I use React.js for my frontend development.
+    I also have experience using Selenium in Python, C, and C++.
